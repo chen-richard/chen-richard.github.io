@@ -106,7 +106,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chen-richard"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "ai ai-google-scholar-square ai-3x"
       url: "https://scholar.google.com/citations?hl=en&user=uCBQfd4AAAAJ&view_op=list_works&sortby=pubdate"
 
 # Site Footer
