@@ -1,8 +1,8 @@
 ---
 title: "Experience"
 permalink: /experience/
-header:
- image:
+author_profile: true
+layout: single
 ---
 
 ## Education
