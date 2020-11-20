@@ -1,8 +1,8 @@
 ---
 title: "Publications"
 permalink: /publications/
-header:
- image:
+author_profile: true
+layout: single
 ---
 
 ## Publications
