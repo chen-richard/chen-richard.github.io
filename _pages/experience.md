@@ -11,7 +11,7 @@ PhD (2014-2021)
 Neuroscience  
 Adviser: Michael Cole
 
-**University of California, Berkeley**
+**University of California, Berkeley**  
 BA (2009-2013)  
 Major: Molecular and Cellular Biology (emphasis in Neuroscience)
 
