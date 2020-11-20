@@ -2,7 +2,7 @@
 title: "About"
 permalink: /
 author_profile: true
-layout: single
+layout: home
 ---
 
 I recently obtained my PhD working with [Michael Cole](https://www.colelab.org/) at the Center for Molecular and Behavioral Neuroscience, Rutgers University.
