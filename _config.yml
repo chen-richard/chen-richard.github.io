@@ -95,7 +95,7 @@ analytics:
 author:
   name             : 
   avatar           : "/images/bio_profile_1.jpg"
-  bio              : 
+  bio              : "PhD in Neuroscience"
   location         : "Kearny, NJ"
   email            :
   links:
@@ -106,7 +106,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chen-richard"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square ai-3x"
+      icon: "ai ai-fw ai-google-scholar-square"
       url: "https://scholar.google.com/citations?hl=en&user=uCBQfd4AAAAJ&view_op=list_works&sortby=pubdate"
 
 # Site Footer
