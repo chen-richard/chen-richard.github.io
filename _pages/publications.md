@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 
-Papers
+## [Papers](https://scholar.google.com/citations?hl=en&user=uCBQfd4AAAAJ&view_op=list_works&sortby=pubdate)
 
 **2019**   
 Cole MW, Ito T, Schultz DH, Mill RD, **Chen RH**, Cocuzza CV (2019). *Task activations produce spurious but systematic inflation of task functional connectivity estimates.* NeuroImage. [https://doi.org/10.1016/j.neuroimage.2018.12.054](https://doi.org/10.1016/j.neuroimage.2018.12.054)
