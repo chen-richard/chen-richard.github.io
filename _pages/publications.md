@@ -5,8 +5,23 @@ author_profile: true
 layout: single
 ---
 
-## Publications
+[##Papers](https://scholar.google.com/citations?hl=en&user=uCBQfd4AAAAJ&view_op=list_works&sortby=pubdate)
 
+**2019**   
+Cole MW, Ito T, Schultz DH, Mill RD, **Chen RH**, Cocuzza CV (2019). *Task activations produce spurious but systematic inflation of task functional connectivity estimates.* NeuroImage. [https://doi.org/10.1016/j.neuroimage.2018.12.054](https://doi.org/10.1016/j.neuroimage.2018.12.054)
+
+Schultz DH, Ito T, Solomyak LI, **Chen RH**, Mill RD, Anticevic A, Cole MW (2019). *Global connectivity of the frontoparietal cognitive control network is related to depression symptoms in undiagnosed individuals.* Network Neuroscience. [doi:10.1101/185306](doi:10.1101/185306)
+
+**2018**  
+**Chen RH**, Ito T, Kulkarni KR, Cole MW. (2018). *The human brain traverses a common activation-pattern state space across task and rest.* Brain Connectivity. [https://doi.org/10.1089/brain.2018.0586](https://doi.org/10.1089/brain.2018.0586)
+
+**2017**  
+Ito T, Kulkarni KR, Schultz DH, Mill RD, **Chen RH**, Solomyak LI, & Cole MW (2017). *Cognitive task information is transferred between brain regions via resting-state network topology.* Nature Communications. [https://doi.org/10.1038/s41467-017-01000-w](https://doi.org/10.1038/s41467-017-01000-w)
+
+Griffis JC, Elkhetali AS, Burge WK, **Chen RH**, Bowman AD, Szaflarski JP, Visscher KM (2017). *Retinotopic patterns of functional connectivity between V1 and large-scale brain networks during resting fixation.* NeuroImage 146: 1071-1083. [https://doi.org/10.1016/j.neuroimage.2016.08.035](https://doi.org/10.1016/j.neuroimage.2016.08.035)
+
+**2015**  
+Griffis JC, Elkhetali AS, Burge WK, **Chen RH**, Visscher KM (2015). *Retinotopic patterns of background connectivity between V1 and fronto-parietal cortex are modulated by task demands.* Front. Hum. Neurosci. 9:338.[https://doi.org/10.3389/fnhum.2015.00338](https://doi.org/10.3389/fnhum.2015.00338)
 
 
 ## Conference Presentations
